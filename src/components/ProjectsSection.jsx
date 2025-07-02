@@ -28,8 +28,8 @@ const projects = [
       "This is a personal portfolio website built with React and Tailwind CSS, showcasing my skills, projects, and experience.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://personal-portfolio-neon-chi.vercel.app/",
+    githubUrl: "https://github.com/Sumit092003/Personal_Portfolio",
   },
 ];
 
